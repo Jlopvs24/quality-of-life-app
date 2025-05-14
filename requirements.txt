@@ -1,0 +1,9 @@
+streamlit
+pandas
+os
+streamlit_option_menu
+numpy
+matplotlib
+seaborn
+joblib
+translatepy
